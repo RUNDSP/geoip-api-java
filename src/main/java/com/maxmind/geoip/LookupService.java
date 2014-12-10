@@ -118,8 +118,8 @@ public class LookupService {
     private final static int ORG_RECORD_LENGTH = 4;
     private final static int MAX_RECORD_LENGTH = 4;
 
-    private final static int MAX_ORG_RECORD_LENGTH = 300;
-    private final static int FULL_RECORD_LENGTH = 60;
+    private final static int MAX_ORG_RECORD_LENGTH = 60;
+    private final static int FULL_RECORD_LENGTH = 300;
 
     private final Country UNKNOWN_COUNTRY = new Country("--", "N/A");
 
